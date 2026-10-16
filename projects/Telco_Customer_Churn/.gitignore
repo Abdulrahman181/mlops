@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+
+# Local datasets and generated model artifacts can contain customer data or executable pickles.
+*.csv
+*.parquet
+*.pkl
+*.pickle
+Deployment_Churn/
+
+# Notebook/runtime output.
+*.log

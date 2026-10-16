@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.DS_Store
+
+# Local data and generated notebook outputs
+/data/
+*.csv
+*.parquet
+*.log
+
+# Keep the checked-in reference artifacts and image assets; ignore ad-hoc outputs.

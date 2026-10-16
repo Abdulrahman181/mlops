@@ -7,7 +7,7 @@ This review covers the repository Python source (`app.py`), the Jupyter notebook
 ## Repository snapshot and constraints
 
 - Repository: `Abdulrahman181/Telecom-Customer-Churn-Prediction-System`
-- Local path: `/home/ubuntu/github_priority/Telecom-Customer-Churn-Prediction-System`
+- Local path: `the original project checkout/Telecom-Customer-Churn-Prediction-System`
 - The IBM Telco CSV is **not present** in the checkout.
 - The audit environment does not have the complete heavy ML runtime installed (`scikit-learn`/`imbalanced-learn`, CatBoost, LightGBM, XGBoost, Optuna, SHAP, and Streamlit were not available for a full inference/training run).
 - Consequently, this review does **not** claim a completed retraining run, metric reproduction, artifact compatibility, or end-to-end Streamlit execution.

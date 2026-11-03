@@ -6,10 +6,10 @@ Production-oriented ML pipelines, validation, deployment, and operations.
 
 - [`healthcare-recommendation-system`](./projects/healthcare-recommendation-system/) — Spark, HDFS, ClickHouse, Airflow, MLflow, and recommendation workflows
 
-- [`mlops-task1-olist-postgresql`](./projects/mlops-task1-olist-postgresql/) — [original repository](https://github.com/Abdulrahman181/mlops-task1-olist-postgresql)
-- [`Telecom-Customer-Churn-Prediction-System`](./projects/Telecom-Customer-Churn-Prediction-System/) — [original repository](https://github.com/Abdulrahman181/Telecom-Customer-Churn-Prediction-System)
-- [`Telco_Customer_Churn`](./projects/Telco_Customer_Churn/) — [original repository](https://github.com/Abdulrahman181/Telco_Customer_Churn)
-- [`vortextech-aiml-internship`](./projects/vortextech-aiml-internship/) — [original repository](https://github.com/Abdulrahman181/vortextech-aiml-internship)
+- [`mlops-task1-olist-postgresql`](./projects/mlops-task1-olist-postgresql/) — [original repository](./projects/mlops-task1-olist-postgresql/)
+- [`Telecom-Customer-Churn-Prediction-System`](./projects/Telecom-Customer-Churn-Prediction-System/) — [original repository](./projects/Telecom-Customer-Churn-Prediction-System/)
+- [`Telco_Customer_Churn`](./projects/Telco_Customer_Churn/) — [original repository](./projects/Telco_Customer_Churn/)
+- [`vortextech-aiml-internship`](./projects/vortextech-aiml-internship/) — [original repository](./projects/vortextech-aiml-internship/)
 
 ## Engineering standard
 

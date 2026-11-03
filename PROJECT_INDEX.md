@@ -6,3 +6,4 @@
 | `Telecom-Customer-Churn-Prediction-System` | [Telecom-Customer-Churn-Prediction-System](https://github.com/Abdulrahman181/Telecom-Customer-Churn-Prediction-System) |
 | `Telco_Customer_Churn` | [Telco_Customer_Churn](https://github.com/Abdulrahman181/Telco_Customer_Churn) |
 | `vortextech-aiml-internship` | [vortextech-aiml-internship](https://github.com/Abdulrahman181/vortextech-aiml-internship) |
+| `healthcare-recommendation-system` | Spark, HDFS, ClickHouse, Airflow, MLflow, and recommendation workflows |
